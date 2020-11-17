@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>icon/Head.jpg</file>
+        <file>icon/music.jpg</file>
+        <file>icon/QTCOVER.jpg</file>
+        <file>icon/sea.jpg</file>
+        <file>icon/default.png</file>
+        <file>icon/down.png</file>
+        <file>icon/pause.png</file>
+        <file>icon/play.png</file>
+        <file>icon/quiticon.png</file>
+        <file>icon/set.png</file>
+        <file>icon/up.png</file>
+        <file>icon/Voice.png</file>
+    </qresource>
+</RCC>
